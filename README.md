@@ -23,7 +23,9 @@
       * Cleaning individual columns.
 3. **Data Visualization**: Using plots to find relations between the features.
 4. **Finding the best cheap restaurants**:
-       * Cheapest, Highest rated and largely voted.
+      * Lowest Cost
+      * Highest Rated
+      * Largely Voted.
 5. **Is there a relation between cuisine,location and the cost?**
 6. **Exploring the best expensive restaurants.**
 7. **Restaurants that are expensive, Highest rated and largely voted.**
