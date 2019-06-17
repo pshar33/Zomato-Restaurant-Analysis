@@ -7,7 +7,6 @@
 * matplotlib
 * seaborn
 * os
-* folium
 
 ### Description
 
