@@ -9,7 +9,7 @@
 * os
 
 ### Description
-
+The dataset is taken from Kaggle. It has been originally scraped from Zomato's Bangalore data. It contains information about ratings,reviews,and many other features of Bangalore city's restaurants. I really enjoyed writing this kernel on Kaggle as I formulated a series of questions that the data could answer.The questions are listed in the breakdown below.
 
 
 ### Breakdown of this notebook:
